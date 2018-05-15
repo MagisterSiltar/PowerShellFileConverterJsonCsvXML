@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rows>
+    <row>
+        <email>Andreas.Frick@mail.com</email>
+        <nachname>Frick</nachname>
+        <vorname>Andreas</vorname>
+    </row>
+    <row>
+        <email>Beat.Müller@mail.com</email>
+        <nachname>Müller</nachname>
+        <vorname>Beat</vorname>
+    </row>
+    <row>
+        <email>Hans-Ruedi.Kipfer@mail.com</email>
+        <nachname>Kipfer</nachname>
+        <vorname>Hans-Ruedi</vorname>
+    </row>
+    <row>
+        <email>Jürgen.Meier@mail.com</email>
+        <nachname>Meier</nachname>
+        <vorname>Jürgen</vorname>
+    </row>
+    <row>
+        <email>Ueli.Andres@mail.com</email>
+        <nachname>Andres</nachname>
+        <vorname>Ueli</vorname>
+    </row>
+    <row>
+        <email>Judith.Kleiner@mail.com</email>
+        <nachname>Kleiner</nachname>
+        <vorname>Judith</vorname>
+    </row>
+    <row>
+        <email>Anna.Maler@mail.com</email>
+        <nachname>Maler</nachname>
+        <vorname>Anna</vorname>
+    </row>
+    <row>
+        <email>Anastasia.Kühl@mail.com</email>
+        <nachname>Kühl</nachname>
+        <vorname>Anastasia</vorname>
+    </row>
+</rows>

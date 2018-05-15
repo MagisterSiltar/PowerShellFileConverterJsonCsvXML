@@ -1,0 +1,42 @@
+[
+  {
+    "Vorname": "Andreas",
+    "Nachname": "Frick",
+    "Email": "Andreas.Frick@mail.com"
+  },
+  {
+    "Vorname": "Beat",
+    "Nachname": "Müller",
+    "Email": "Beat.Müller@mail.com"
+  },
+  {
+    "Vorname": "Hans-Ruedi",
+    "Nachname": "Kipfer",
+    "Email": "Hans-Ruedi.Kipfer@mail.com"
+  },
+  {
+    "Vorname": "Jürgen",
+    "Nachname": "Meier",
+    "Email": "Jürgen.Meier@mail.com"
+  },
+  {
+    "Vorname": "Ueli",
+    "Nachname": "Andres",
+    "Email": "Ueli.Andres@mail.com"
+  },
+  {
+    "Vorname": "Judith",
+    "Nachname": "Kleiner",
+    "Email": "Judith.Kleiner@mail.com"
+  },
+  {
+    "Vorname": "Anna",
+    "Nachname": "Maler",
+    "Email": "Anna.Maler@mail.com"
+  },
+  {
+    "Vorname": "Anastasia",
+    "Nachname": "Kühl",
+    "Email": "Anastasia.Kühl@mail.com"
+  }
+]
